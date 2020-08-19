@@ -11,3 +11,5 @@
 ||meduza.io$badfilter
 @@/example.*/
 @@||mail.ru^
+@@||mal.ru^
+@@||ml.ru^
