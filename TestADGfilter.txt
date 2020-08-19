@@ -1,9 +1,10 @@
 ! Title: AdGuard test filter
 ! Description: safariexttest!
-! Version: 0.1.1
-! TimeUpdated: 2020-08-12T16:31:35+03:00
+! Version: 0.1.2
+! TimeUpdated: 2020-08-12T16:31:37+03:00
 
 @@||gismeteo.ru^
 ||ya.ru^
 ||meduza.io^
 ||vk.com^
+||vkt.com^
