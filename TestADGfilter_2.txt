@@ -1,6 +1,6 @@
-! Title: Zblocked привет Ж)
-! Updated: Tue, 15 Dec 2020 15:39:57 +0000
-! Version: 0.0.0.0
+! Title: InoiHeader
+! Updated: Tue, 17 Dec 2020 15:39:57 +0000
+! Version: 0.0.0.1
 
 ||google.com^
 ||facebook.com^
@@ -13,3 +13,4 @@
 @@||mail.ru^
 @@||mal.ru^
 @@||ml.ru^
+|http://example.org/
