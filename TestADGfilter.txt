@@ -12,3 +12,4 @@
 vkontakte.ru
 ||ok.ru^
 selenium.us
+ukr.ua
