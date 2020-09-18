@@ -1,7 +1,7 @@
-! Title: AdGuard test filter
-! Description: safariexttest!
-! Version: 0.1.4
-! TimeUpdated: 2020-08-12T16:31:37+03:00
+! Title: AdGuard test filter 1.8.3
+! Description: safari1.8.3
+! Version: 0.1.5
+! TimeUpdated: 2020-09-17T16:31:37+03:00
 
 @@||gismeteo.ru^
 ||ya.ru^
@@ -13,3 +13,5 @@ vkontakte.ru
 ||ok.ru^
 selenium.us
 ukr.ua
+Askr.me
+finder.com
